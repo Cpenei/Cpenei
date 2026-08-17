@@ -1,6 +1,6 @@
 <div id="title" align=center>
   
-![](https://cdn.luogu.com.cn/upload/image_hosting/8z9v3bdz.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/xgf1acw8.png)
 
 
 
